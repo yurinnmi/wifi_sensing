@@ -17,11 +17,8 @@ extern "C" {
  *
  * ESP32-C6は2.4GHz Wi-Fiを使用します。
  */
-//static const char* WIFI_SSID = "YOUR_WIFI_SSID";
-//static const char* WIFI_PASS = "YOUR_WIFI_PASSWORD";
-
-static const char* WIFI_SSID = "aterm-6e0352-5p";
-static const char* WIFI_PASS = "071cb9f218f5c";
+static const char* WIFI_SSID = "YOUR_WIFI_SSID";
+static const char* WIFI_PASS = "YOUR_WIFI_PASSWORD";
 
 /*
  * シリアル設定
