@@ -5,7 +5,7 @@ XIAO ESP32C6を使ってWi-Fi CSIという情報を取得します。
 
 詳細はNOTEに記載しています。  
 
-https://note.com/yuzu_monaka_/n/ne140b89c1651
+https://note.com/yuzu_monaka_/n/n12e406454ae0
 
 
 # 仕様
